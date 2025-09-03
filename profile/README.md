@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/vd-mark.png" width="110" alt="VeyDigital logo">
+  <img src="./profile/assets/upscale8_Tran.png" width="120" alt="VeyDigital logo">
 </p>
 
 <h1 align="center">VeyDigital™</h1>
