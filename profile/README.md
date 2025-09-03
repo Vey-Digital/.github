@@ -58,18 +58,6 @@
 ### 🖥️ VeyDigital HR System Navigation
 **VeyDigital HR** · *Human Resources*
 
-```text
-Dashboard     Employees     Attendance     Payroll
-Performance   Leave Requests Reports       Documents
-Settings      Sign Out
-
 ### 🔐 Login Page
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vey-Digital/.github/main/profile/assets/profile/assets/CoverPage_HR.png" width="800" alt="VeyDigital HR Login">
-</p>
-
-### 📊 Dashboard
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vey-Digital/.github/main/profile/assets/profile/assets/VeyDigital_DashboardHR.png" width="800" alt="VeyDigital HR Dashboard">
-</p>
+![VeyDigital HR Login](https://raw.githubusercontent.com/Vey-Digital/.github/main/profile/assets/profile/assets/CoverPage_HR.png)
 
