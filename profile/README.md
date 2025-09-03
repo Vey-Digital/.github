@@ -14,11 +14,16 @@
 </p>
 
 ---
-
 ## Products
 - **Pinky Swear AI — by VeyDigital™**  
   Trust-first HR assistant for onboarding, policies, leave, and approvals.
-- **AgentVey** · AI assistant for workflows, docs, and automation.
+
+- **AgentVey** · AI assistant for workflows, docs, automation, and **customized voice cloning**.  
+  Create branded AI voice experiences that:  
+  - Personalize customer engagement with consistent, human-like voices.  
+  - Boost marketing by giving your brand a recognizable audio identity.  
+  - Improve efficiency by automating voiceovers for training, HR onboarding, client calls, and content creation.  
+
 - **DataNova** · Predictive analytics & KPI storytelling.
 
 ---
