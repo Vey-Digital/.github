@@ -37,6 +37,8 @@
 | **Employee Management** | Manage your workforce efficiently |
 | **Performance Analytics** | Track and improve team performance |
 | **Enterprise Ready** | Scalable solution for growing businesses |
+### 📊 Dashboard
+![VeyDigital HR Dashboard](https://raw.githubusercontent.com/Vey-Digital/.github/main/profile/assets/profile/assets/VeyDigital_DashboardHR.png)
 
 ---
 
