@@ -37,6 +37,13 @@
 | **Employee Management** | Manage your workforce efficiently |
 | **Performance Analytics** | Track and improve team performance |
 | **Enterprise Ready** | Scalable solution for growing businesses |
+
+
+### 🖥️ VeyDigital HR System Navigation
+**VeyDigital HR** · *Human Resources*
+
+### 🔐 Login Page
+![VeyDigital HR Login](https://raw.githubusercontent.com/Vey-Digital/.github/main/profile/assets/profile/assets/CoverPage_HR.png)
 ### 📊 Dashboard
 ![VeyDigital HR Dashboard](https://raw.githubusercontent.com/Vey-Digital/.github/main/profile/assets/profile/assets/VeyDigital_DashboardHR.png)
 
@@ -57,9 +64,4 @@
 
 ---
 
-### 🖥️ VeyDigital HR System Navigation
-**VeyDigital HR** · *Human Resources*
-
-### 🔐 Login Page
-![VeyDigital HR Login](https://raw.githubusercontent.com/Vey-Digital/.github/main/profile/assets/profile/assets/CoverPage_HR.png)
 
