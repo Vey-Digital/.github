@@ -62,9 +62,14 @@
 Dashboard     Employees     Attendance     Payroll
 Performance   Leave Requests Reports       Documents
 Settings      Sign Out
+
 ### 🔐 Login Page
-![VeyDigital HR Login](https://github.com/Vey-Digital/.github/blob/main/profile/assets/profile/assets/CoverPage_HR.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vey-Digital/.github/main/profile/assets/profile/assets/CoverPage_HR.png" width="800" alt="VeyDigital HR Login">
+</p>
 
 ### 📊 Dashboard
-![VeyDigital HR Dashboard](https://github.com/Vey-Digital/.github/blob/main/profile/assets/profile/assets/VeyDigital_DashboardHR.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vey-Digital/.github/main/profile/assets/profile/assets/VeyDigital_DashboardHR.png" width="800" alt="VeyDigital HR Dashboard">
+</p>
 
